@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: url(https://i.pinimg.com/originals/94/2c/e0/942ce0c8dede623b6b4e763694f35d8d.jpg);
+	background-attachment: fixed;
+}
+
+.register{
+	background: #f7fffb;
+	border-radius: 10px;
+	padding: 50px;
+	margin-left: 550px;
+	width: 50%;
+	height: auto;
+	opacity: 0.9;
+}
+.register>h2{
+	text-align: center;
+}
